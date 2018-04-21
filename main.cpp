@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  MAV_Link_Interceptor
-//
-//  Created by Daniel Fitchmun on 4/13/18.
-//  Copyright © 2018 Fitchmun. All rights reserved.
-//
 
 #include <iostream>
 #include "standard/mavlink.h"
